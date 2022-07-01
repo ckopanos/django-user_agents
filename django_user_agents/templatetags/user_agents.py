@@ -1,7 +1,6 @@
 from django import template
 
-from ..utils import get_and_set_user_agent
-
+from django_user_agents.utils import get_and_set_user_agent
 
 register = template.Library()
 

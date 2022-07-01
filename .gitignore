@@ -7,3 +7,5 @@ cabal-dev
 build/
 py/ua_parser.egg-info/
 *idea/
+.tox
+.coverage

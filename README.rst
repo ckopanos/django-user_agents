@@ -1,3 +1,5 @@
+**"initial support for Dhango v4"**
+
 Django User Agents
 ==================
 
